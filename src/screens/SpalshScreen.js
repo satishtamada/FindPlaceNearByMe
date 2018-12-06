@@ -93,6 +93,7 @@ export default class SpalshScreen extends Component {
         this.setState({
           lastLat: position.longitude,
           lastLong: position.latitude
+          //TODO
         });
       },
       error => {
