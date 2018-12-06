@@ -1,0 +1,4 @@
+rootProject.name = 'FindNearPlaces'
+
+include ':RNPermissionsModule', ':app'
+project(':RNPermissionsModule').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-android-permissions/android')

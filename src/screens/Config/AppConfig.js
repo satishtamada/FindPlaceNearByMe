@@ -1,0 +1,1 @@
+// https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=17.387140,78.491684&radius=500&types=school&key=AIzaSyAC1i9oNAD4-bRznQSjwVw9CAFn9WOfrfk
